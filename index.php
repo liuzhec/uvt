@@ -2,6 +2,5 @@
 
 
 echo "first type";
-
-
+echo "master";
 ?>
