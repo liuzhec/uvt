@@ -2,5 +2,5 @@
 
 
 echo "first type";
-echo "master";
+echo "master and dev ";
 ?>
